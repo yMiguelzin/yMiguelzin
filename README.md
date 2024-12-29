@@ -1,4 +1,4 @@
-### Olá! Eu sou o Miguel Henrique 🖐️
+### Olá! Eu sou o Miguel 🖐️
 
 ## Redes sociais e profissionais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-henrique-m/)
