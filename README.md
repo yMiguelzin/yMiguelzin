@@ -40,3 +40,9 @@
 </div>
 <br>
 Me chamo Miguel, tenho 19 anos. Sou apaixonado por programação e tecnologia. Concluí a escola técnica ETEC em dezembro de 2023 e estou sempre aprendendo novas habilidades em desenvolvimento web e mobile. Recentemente, desenvolvi um projeto para a 3M que cuida de peixes betta em aquários, monitorando a temperatura da água e o ph usando Arduino com programação em C++. Além disso, criei alguns sites utilizando HTML, CSS, JavaScript e Bootstrap. Atualmente, estou aprendendo sobre o Laravel e Node.js, além de ter adquirido conhecimentos em bancos de dados como MySQL e NoSQL. Também estou explorando a programação mobile com C# e .NET MAUI.
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yMiguelzin/yMiguelzin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yMiguelzin/yMiguelzin/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yMiguelzin/yMiguelzin/output/github-contribution-grid-snake.svg">
+</picture>
