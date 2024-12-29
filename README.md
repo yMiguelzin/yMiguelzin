@@ -8,7 +8,7 @@
 ![yMiguelzin GitHub stats](https://github-readme-stats.vercel.app/api?username=yMiguelzin&show_icons=true&theme=dracula)
 
 
-## As tecnologias mais usadas no meus projetos no github
+## As tecnologias mais usadas nos meus projetos no github
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yMiguelzin)](https://github.com/anuraghazra/github-readme-stats)
 
