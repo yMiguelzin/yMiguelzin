@@ -1,4 +1,21 @@
-### Olá! Eu sou o Miguel 🖐️
+# Miguel Preto
+
+<img align="right" width="300px" src="./bio-image.svg" />
+
+<p align="left">
+  <a href="mailto:miguelhclpimoveis@gmail.com">
+    <img src="https://img.shields.io/badge/-rafaeldcmartins@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguelhclpimoveis@gmail.com" />
+  </a>
+  <a href="https://www.linkedin.com/in/miguel-henrique-m">
+    <img src="https://img.shields.io/badge/-Rafael%20Martins-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-henrique-m" />
+  </a>
+  <a href="https://github.com/yMiguelzin/?tab=follow">
+    <img src="https://img.shields.io/github/followers/yMiguelzin?label=Follow&style=social" />
+  </a>
+</p>
+
+<br>
+
 
 ## Redes sociais e profissionais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-henrique-m/)
