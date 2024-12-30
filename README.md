@@ -28,7 +28,7 @@
   src="https://github-readme-stats.vercel.app/api?username=yMiguelzin&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
 />
 
-#
+<br>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
