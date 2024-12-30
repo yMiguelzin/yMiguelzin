@@ -4,10 +4,10 @@
 
 <p align="left">
   <a href="mailto:miguelhclpimoveis@gmail.com">
-    <img src="https://img.shields.io/badge/-rafaeldcmartins@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguelhclpimoveis@gmail.com" />
+    <img src="https://img.shields.io/badge/-miguelhclpimoveis@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguelhclpimoveis@gmail.com" />
   </a>
   <a href="https://www.linkedin.com/in/miguel-henrique-m">
-    <img src="https://img.shields.io/badge/-Rafael%20Martins-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-henrique-m" />
+    <img src="https://img.shields.io/badge/-Miguel%20Preto-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-henrique-m" />
   </a>
   <a href="https://github.com/yMiguelzin/?tab=follow">
     <img src="https://img.shields.io/github/followers/yMiguelzin?label=Follow&style=social" />
