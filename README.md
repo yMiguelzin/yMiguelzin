@@ -1,4 +1,4 @@
-# Rafael Martins
+# Miguel Preto
 
 <img align="right" width="300px" src="./bio-image.svg" />
 
