@@ -16,8 +16,8 @@
 
 <br>
 
-- :rocket: Skills: <strong>HTML5 | CSS3 (Sass/styled-components) | JavaScript | PHP | MySql.</strong>
-- :mortar_board: Studying: <strong>Next.js | Angular</strong>.
+- :rocket: Skills: <strong>HTML5 | CSS3 (Sass/styled-components) | JavaScript | PHP |Java | MySql.</strong>
+- :mortar_board: Studying: <strong>Angular | TypeScript</strong>.
 - :briefcase: I am currently looking for a job as FullStack Developer.
 
 <br>
