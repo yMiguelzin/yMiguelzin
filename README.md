@@ -18,7 +18,7 @@
 
 - :rocket: Skills: <strong>HTML5 | CSS3 | JavaScript | PHP |Java | MySQL.</strong>
 - :mortar_board: Studying: <strong>Angular | TypeScript</strong>.
-- :briefcase: I am currently looking for a job as FullStack Developer.
+- :briefcase: I am currently looking for a job as a Technical Support Specialist
 
 <br>
 
