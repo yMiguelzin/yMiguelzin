@@ -4,10 +4,10 @@
 
 <p align="left">
   <a href="mailto:miguelhclpimoveis@gmail.com">
-    <img src="https://img.shields.io/badge/-miguelhclpimoveis@gmail.com-23a6ea?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguelhclpimoveis@gmail.com" />
+    <img src="https://img.shields.io/badge/-miguelhclpimoveis@gmail.com-244ab7?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguelhclpimoveis@gmail.com" />
   </a>
   <a href="https://www.linkedin.com/in/miguel-henrique-m">
-    <img src="https://img.shields.io/badge/-Miguel%20Preto-23a6ea?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-henrique-m" />
+    <img src="https://img.shields.io/badge/-Miguel%20Preto-244ab7?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-henrique-m" />
   </a>
   <a href="https://github.com/yMiguelzin/?tab=follow">
     <img src="https://img.shields.io/github/followers/yMiguelzin?label=Follow&style=social" />
@@ -25,7 +25,7 @@
 <img
   align="left"
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=yMiguelzin&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=23a6ea&icon_color=23a6ea&bg_color=ffffff00&text_color=23a6ea&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=yMiguelzin&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=244ab7&icon_color=244ab7&bg_color=ffffff00&text_color=23a6ea&hide_border=true"
 />
 
 <br>
