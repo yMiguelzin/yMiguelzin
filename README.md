@@ -1,4 +1,4 @@
-# Miguel Preto
+# Miguel Marostica
 
 <img align="right" width="300px" src="./bio-image.svg" />
 
