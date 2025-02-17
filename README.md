@@ -1,6 +1,6 @@
 # Miguel Marostica
 
-<img align="right" width="300px" src="./bio-image.svg" />
+<img align="right" width="300px" src="./blue-image.png" />
 
 <p align="left">
   <a href="mailto:miguelhclpimoveis@gmail.com">
