@@ -33,8 +33,8 @@
 <img
   align="left"
   height="165"
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yMiguelzin&theme=gotham&layout=compact"width="40%"/> 
-</p>
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yMiguelzin&theme=gotham&layout=compact"width="40%" 
+/>
 
 <!-- <p align="center">
   <a href="https://github.com/yMiguelzin"><img src="contributions.svg"></a> -->
