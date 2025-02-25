@@ -34,6 +34,7 @@
 
 
 <br>
+![image](https://github.com/user-attachments/assets/4888caa7-83e8-43f9-80b6-3f8167fae760)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
