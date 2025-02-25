@@ -28,6 +28,15 @@
   src="https://github-readme-stats.vercel.app/api?username=yMiguelzin&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=2c46a3&icon_color=2c46a3&bg_color=ffffff00&text_color=2c46a3&hide_border=true"
 />
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrohitofficial&theme=gotham&layout=compact"width="40%"/> 
+</p>
+
+<!-- <p align="center">
+  <a href="https://github.com/jrohitofficial"><img src="contributions.svg"></a> -->
+</p>
+
+
 <br>
 
 <picture align="center">
