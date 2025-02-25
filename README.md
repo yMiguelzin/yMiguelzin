@@ -30,11 +30,11 @@
 
 <br>
   
-<img
+<p
   align="left"
   height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yMiguelzin&theme=gotham&layout=compact"width="40%" 
-/>
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yMiguelzin&theme=gotham&layout=compact"width="40%"/> 
+</p>
 
 <!-- <p align="center">
   <a href="https://github.com/yMiguelzin"><img src="contributions.svg"></a> -->
